@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Harshika Kamwal
+// 25070123508
 
 #include <iostream>
 using namespace std;
@@ -25,4 +25,5 @@ int main() {
 // Enter a number: -11
 // Number is Negative
 // Enter a number: 0
+
 // Number is Zero
