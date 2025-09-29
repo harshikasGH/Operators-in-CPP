@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Harshika Kamwal
+// 25070123508
 
 #include <iostream>
 using namespace std;
@@ -47,4 +47,5 @@ int main() {
 // Enter marks of Biology: 80
 // Enter marks of English: 90
 // Your average is 89.6%
+
 // Grade is A+
